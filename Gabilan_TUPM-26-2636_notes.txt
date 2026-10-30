@@ -1,0 +1,5 @@
+Student: Gabilan
+Student ID: TUPM-26-2636
+Seed digit: 6
+ID sum: 25
+Verification value: 181

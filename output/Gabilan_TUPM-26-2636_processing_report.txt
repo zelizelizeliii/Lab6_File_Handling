@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Gabilan
+Student ID: TUPM-26-2636
+Seed Digit: 6
+ID Sum: 25
+Verification Value: 181
+Dataset Sample Size: 75
+Valid Records: 75
+Average Global Active Power: 4.040
+JSON File: Gabilan_TUPM-26-2636_record.json
+Backup File: Gabilan_TUPM-26-2636_record.csv
