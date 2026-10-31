@@ -1,0 +1,115 @@
+User ID,Device Model,Operating System,Battery Drain (mAh/day),Data Usage (MB/day)
+3,Xiaomi Mi 11,Android,761.0,322.0
+6,Google Pixel 5,Android,940.0,564.0
+17,OnePlus 9,Android,628.0,344.0
+21,Samsung Galaxy S21,Android,681.0,302.0
+26,Samsung Galaxy S21,Android,1073.0,451.0
+43,Samsung Galaxy S21,Android,720.0,392.0
+44,Samsung Galaxy S21,Android,993.0,429.0
+45,Xiaomi Mi 11,Android,837.0,572.0
+48,Samsung Galaxy S21,Android,889.0,323.0
+53,Samsung Galaxy S21,Android,690.0,393.0
+54,Xiaomi Mi 11,Android,1101.0,375.0
+68,Xiaomi Mi 11,Android,773.0,449.0
+78,Google Pixel 5,Android,678.0,301.0
+87,Samsung Galaxy S21,Android,1003.0,392.0
+89,Xiaomi Mi 11,Android,839.0,348.0
+91,Google Pixel 5,Android,912.0,307.0
+103,Google Pixel 5,Android,929.0,565.0
+105,Xiaomi Mi 11,Android,1113.0,360.0
+107,Google Pixel 5,Android,642.0,596.0
+111,OnePlus 9,Android,718.0,459.0
+114,Samsung Galaxy S21,Android,818.0,404.0
+120,Google Pixel 5,Android,1018.0,428.0
+129,Xiaomi Mi 11,Android,678.0,465.0
+130,Xiaomi Mi 11,Android,751.0,412.0
+133,Google Pixel 5,Android,1193.0,458.0
+150,Google Pixel 5,Android,873.0,459.0
+153,Google Pixel 5,Android,741.0,396.0
+156,Xiaomi Mi 11,Android,893.0,493.0
+160,Xiaomi Mi 11,Android,859.0,305.0
+171,Xiaomi Mi 11,Android,1124.0,524.0
+173,OnePlus 9,Android,935.0,578.0
+181,OnePlus 9,Android,1124.0,571.0
+198,OnePlus 9,Android,1116.0,320.0
+200,Xiaomi Mi 11,Android,971.0,431.0
+205,OnePlus 9,Android,961.0,433.0
+208,Google Pixel 5,Android,620.0,419.0
+213,Samsung Galaxy S21,Android,714.0,445.0
+220,Xiaomi Mi 11,Android,603.0,417.0
+222,OnePlus 9,Android,1007.0,417.0
+225,OnePlus 9,Android,690.0,563.0
+229,Samsung Galaxy S21,Android,649.0,368.0
+234,OnePlus 9,Android,1059.0,580.0
+243,OnePlus 9,Android,761.0,338.0
+249,Xiaomi Mi 11,Android,866.0,581.0
+254,Xiaomi Mi 11,Android,982.0,478.0
+273,Google Pixel 5,Android,1002.0,453.0
+274,Google Pixel 5,Android,1014.0,588.0
+289,OnePlus 9,Android,619.0,473.0
+300,Xiaomi Mi 11,Android,748.0,499.0
+306,OnePlus 9,Android,686.0,594.0
+313,Google Pixel 5,Android,1054.0,563.0
+314,Xiaomi Mi 11,Android,820.0,308.0
+318,Google Pixel 5,Android,827.0,434.0
+347,OnePlus 9,Android,1020.0,447.0
+349,Google Pixel 5,Android,866.0,510.0
+369,OnePlus 9,Android,747.0,408.0
+380,OnePlus 9,Android,922.0,313.0
+384,OnePlus 9,Android,653.0,322.0
+385,Samsung Galaxy S21,Android,890.0,548.0
+387,OnePlus 9,Android,925.0,457.0
+390,Xiaomi Mi 11,Android,775.0,313.0
+393,Samsung Galaxy S21,Android,1055.0,313.0
+402,Google Pixel 5,Android,612.0,508.0
+407,Xiaomi Mi 11,Android,994.0,567.0
+415,Google Pixel 5,Android,1171.0,573.0
+426,Samsung Galaxy S21,Android,1062.0,579.0
+427,OnePlus 9,Android,747.0,403.0
+428,OnePlus 9,Android,967.0,489.0
+429,Xiaomi Mi 11,Android,1033.0,369.0
+436,Xiaomi Mi 11,Android,798.0,467.0
+439,OnePlus 9,Android,728.0,343.0
+440,Google Pixel 5,Android,915.0,468.0
+449,Samsung Galaxy S21,Android,617.0,306.0
+451,Samsung Galaxy S21,Android,1114.0,466.0
+453,Samsung Galaxy S21,Android,734.0,583.0
+460,OnePlus 9,Android,639.0,545.0
+462,Samsung Galaxy S21,Android,938.0,438.0
+473,Xiaomi Mi 11,Android,697.0,513.0
+495,Samsung Galaxy S21,Android,1176.0,545.0
+514,OnePlus 9,Android,975.0,507.0
+516,OnePlus 9,Android,1187.0,599.0
+517,Xiaomi Mi 11,Android,940.0,535.0
+520,OnePlus 9,Android,1123.0,371.0
+527,Google Pixel 5,Android,689.0,318.0
+529,Google Pixel 5,Android,801.0,338.0
+536,Samsung Galaxy S21,Android,937.0,573.0
+550,Samsung Galaxy S21,Android,1047.0,508.0
+552,Samsung Galaxy S21,Android,1110.0,373.0
+562,Xiaomi Mi 11,Android,1188.0,578.0
+567,Google Pixel 5,Android,1132.0,498.0
+576,Samsung Galaxy S21,Android,606.0,446.0
+582,Samsung Galaxy S21,Android,625.0,416.0
+586,OnePlus 9,Android,1191.0,563.0
+590,Samsung Galaxy S21,Android,627.0,464.0
+591,Samsung Galaxy S21,Android,630.0,575.0
+598,OnePlus 9,Android,825.0,347.0
+599,Samsung Galaxy S21,Android,1131.0,596.0
+603,OnePlus 9,Android,922.0,373.0
+604,OnePlus 9,Android,660.0,424.0
+615,Samsung Galaxy S21,Android,1158.0,493.0
+616,Google Pixel 5,Android,608.0,461.0
+631,Google Pixel 5,Android,1078.0,489.0
+634,OnePlus 9,Android,1142.0,366.0
+636,Samsung Galaxy S21,Android,1198.0,401.0
+644,OnePlus 9,Android,723.0,566.0
+646,Xiaomi Mi 11,Android,1197.0,345.0
+651,Google Pixel 5,Android,1041.0,356.0
+656,Google Pixel 5,Android,1028.0,493.0
+662,Xiaomi Mi 11,Android,947.0,545.0
+663,Xiaomi Mi 11,Android,1189.0,448.0
+670,Samsung Galaxy S21,Android,648.0,339.0
+677,OnePlus 9,Android,689.0,576.0
+678,Samsung Galaxy S21,Android,706.0,495.0
+698,Google Pixel 5,Android,942.0,457.0

@@ -1,0 +1,12 @@
+{
+    "Student": "Gabilan",
+    "Student ID": "TUPM-26-2636",
+    "Operating System": "Android",
+    "User Behavior Class": 2,
+    "Total Records in Dataset": 700,
+    "Records Matching Operating System": 554,
+    "Records in Target Behavior Class": 114,
+    "Average Battery Drain (mAh/day)": 887.1140350877193,
+    "Average Data Usage (MB/day)": 451.43859649122805,
+    "Invalid Records": 0
+}

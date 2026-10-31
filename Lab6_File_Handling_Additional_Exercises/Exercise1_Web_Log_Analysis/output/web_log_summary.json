@@ -1,0 +1,21 @@
+{
+    "Student": "Gabilan",
+    "Student ID": "TUPM-26-2636",
+    "Records Processed": 1025,
+    "Target Status Class": "4xx",
+    "Records in Target Class": 5,
+    "Count per Status Code": {
+        "404": 5
+    },
+    "Five Most Requested URLs": [
+        {
+            "URL": "GET /robots.txt HTTP/1.1",
+            "Count": 4
+        },
+        {
+            "URL": "GET /favicon.ico HTTP/1.1",
+            "Count": 1
+        }
+    ],
+    "Invalid Records": 0
+}
